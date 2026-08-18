@@ -57,11 +57,10 @@
 | Projekt | Beschreibung | Stack |
 |---|---|---|
 | 🪐 **NexCore** | All-in-One Discord-Bot mit Web-Panel — kostenlos für jeden Server | Node.js · Next.js · MySQL |
-| ⚖️ **Justiz-Panel** | Ticket-Bot mit Web-Panel für Verwaltungs-Workflows | JavaScript |
-| 🏭 **IronHub** | Community-Hub-Plattform | TypeScript |
-| 🚛 **GRTL Hub** | Internes Speditions-Hub mit Discord-Anbindung | Python · FastAPI |
+| 🏊 **IronHub** | Ironman-Trainingsplattform: personalisiertes Training, Essensstrategie, automatischer Import u.v.m. | TypeScript |
+| 🚛 **GRTL Hub** | ETS2-Tracker für die Spedition — mit angebundenem Discord-Bot | Python · FastAPI |
 | 🏝️ **Tanoa Vice** | Komplette Server-Infrastruktur für Arma-3-RP (Bots, ACP, Website) | Python · JavaScript |
-| 🏥 **Klinikum-Intranet** | Intranet-Lösung mit Verwaltungs-Panel | Python · Flask |
+| 🏥 **Klinikum-Intranet** | Personalverwaltungstool und Discord-Bot in einem | Python · Flask |
 | 🤖 **bot_template** | Mein Basis-Template für neue Discord-Bots | Python |
 
 *Viele Projekte laufen produktiv auf eigener Infrastruktur und sind daher privat.* 🔒
