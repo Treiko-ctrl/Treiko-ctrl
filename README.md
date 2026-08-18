@@ -52,18 +52,22 @@
 
 </div>
 
-## 🤖 Projekte
+## 🔒 Hinter den Kulissen
 
-| Projekt | Beschreibung | Stack |
-|---|---|---|
-| 🪐 **NexCore** | All-in-One Discord-Bot mit Web-Panel — kostenlos für jeden Server | Node.js · Next.js · MySQL |
-| 🏊 **IronHub** | Ironman-Trainingsplattform: personalisiertes Training, Essensstrategie, automatischer Import u.v.m. | TypeScript |
-| 🚛 **GRTL Hub** | ETS2-Tracker für die Spedition — mit angebundenem Discord-Bot | Python · FastAPI |
-| 🏝️ **Tanoa Vice** | Komplette Server-Infrastruktur für Arma-3-RP (Bots, ACP, Website) | Python · JavaScript |
-| 🏥 **Klinikum-Intranet** | Personalverwaltungstool und Discord-Bot in einem | Python · Flask |
-| 🤖 **bot_template** | Mein Basis-Template für neue Discord-Bots | Python |
+Neben NexCore laufen bei mir **über 20 Projekte** — die meisten produktiv im Einsatz und deshalb privat.
+Ein kleiner Vorgeschmack, ohne zu viel zu verraten:
 
-*Viele Projekte laufen produktiv auf eigener Infrastruktur und sind daher privat.* 🔒
+<div align="center">
+
+🏊 *Eine Trainingsplattform für Ironman-Athleten — Training, Ernährung, Auto-Import*
+🚛 *Ein Logistik-Tracker mit direkter Discord-Anbindung*
+🏥 *Personalverwaltung und Discord-Bot in einem System*
+🏝️ *Komplette Server-Infrastruktur für eine Roleplay-Community*
+🏢 *Diverse Intranet- und Verwaltungslösungen*
+
+**… und einiges mehr, das noch nicht spruchreif ist.** 👀
+
+</div>
 
 ## 📊 Statistiken
 
