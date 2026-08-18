@@ -17,7 +17,7 @@
 - 🇩🇪 Entwickler aus Deutschland
 - 🤖 Ich baue **Discord-Bots**, die sich wie Produkte anfühlen — mit Web-Panel statt Befehls-Chaos
 - 🖥️ **Full-Stack**: von der Landing Page über die API bis zum nginx auf dem eigenen Server
-- ⚙️ Alles **self-hosted**: Hetzner, nginx, pm2, systemd, Cloudflare
+- ⚙️ Alles **self-hosted** auf eigener Infrastruktur
 - 🎯 Aktuell: **NexCore** — mein All-in-One-Bot für jedermann
 - ☕ Treibstoff: Kaffee
 
