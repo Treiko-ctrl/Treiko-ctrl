@@ -73,14 +73,21 @@
 > Ein Online-Tool rund um **elektrische Verteilungen** — durchdacht, im echten Einsatz
 > und eines meiner Lieblingsprojekte. Was es alles kann? **Wird nicht verraten.** 😏
 
-### 🧰 Außerdem in der Werkstatt
+### 🎮 GTA-RP-Ökosystem
 
-- 🏥 **KH-Pycord & kh-verwaltung** — Klinikums-Bot samt Verwaltungssystem fürs Rheinstädtische Klinikum
-- 🚒 **FFW & ffw-verwaltungsbot** — Intranet und Verwaltungsbot für die Feuerwehr
-- 🛡️ **Sicherungsgruppe Rheinstadt** — Verwaltungsbot für die Sicherungsgruppe
-- 📊 **Bens-Dashboard** — maßgeschneidertes Dashboard-Projekt
-- 📚 **gl_doku** *(öffentlich)* — meine Skript-Sammlung mit Dokumentation
-- 🧪 **Treikaru, lmn & mehr** — Experimente und Tools, die irgendwann groß werden könnten 👀
+Für diverse GTA-Roleplay-Communities habe ich ein ganzes Ökosystem an Bots und Tools gebaut —
+mit Features wie **automatischer Vertragserstellung inkl. Unterschrift**, **Personalmanagement**,
+Dienstplänen, Aktenverwaltung und vielem mehr:
+
+- 🏥 **KH-Pycord & kh-verwaltung** — Klinikums-Bot samt komplettem Verwaltungssystem
+- 🚒 **FFW & ffw-verwaltungsbot** — Feuerwehr-Intranet und Verwaltungsbot
+- 🛡️ **Sicherungsgruppe Rheinstadt** — Verwaltungsbot mit Personal- und Vertragswesen
+- 📊 **Bens-Dashboard** — maßgeschneidertes Fraktions-Dashboard
+- 🧪 **Treikaru, lmn & mehr** — weitere RP-Tools und Experimente 👀
+
+### 📚 Und sonst so
+
+- **gl_doku** *(öffentlich)* — meine Skript-Sammlung mit Dokumentation
 
 *Die meisten Projekte laufen produktiv auf eigener Infrastruktur und sind daher privat — bei Fragen einfach anschreiben!* 💬
 
