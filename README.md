@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Treiko&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Discord%20Bots%20%C2%B7%20Web%20Dashboards%20%C2%B7%20Intranet&descAlignY=75&descSize=20" width="100%" alt="" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Hey%2C+ich+bin+Treiko+%F0%9F%91%8B;Discord-Bot-Entwickler+%F0%9F%A4%96;Webentwicklung+%26+Dashboards+%F0%9F%96%A5%EF%B8%8F;Intranet-L%C3%B6sungen+%F0%9F%8F%A2;Selfhosting-Enthusiast+%E2%9A%99%EF%B8%8F;Made+with+%E2%98%95+and+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Hey%2C+ich+bin+Treiko+%F0%9F%91%8B;Discord-Bot-Entwickler+%F0%9F%A4%96;Webentwicklung+%26+Dashboards+%F0%9F%96%A5%EF%B8%8F;Intranet-L%C3%B6sungen+%F0%9F%8F%A2;Selfhosting-Enthusiast+%E2%9A%99%EF%B8%8F;Triathlet+%F0%9F%8F%8A%F0%9F%9A%B4%F0%9F%8F%83;Made+with+%E2%98%95+and+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Treiko-ctrl&style=for-the-badge&color=5865F2&label=Profilaufrufe" alt="Profilaufrufe" />
 
@@ -19,7 +19,8 @@
 - 🖥️ **Full-Stack**: von der Landing Page über die API bis zum nginx auf dem eigenen Server
 - ⚙️ Alles **self-hosted** auf eigener Infrastruktur
 - 🎯 Aktuell: **NexCore** — mein All-in-One-Bot für jedermann
-- ☕ Treibstoff: Kaffee
+- 🏊🚴🏃 Wenn ich nicht code: **Triathlon** — Schwimmen, Radfahren, Laufen (Ziel: Ironman)
+- ☕ Treibstoff: Kaffee (und Kohlenhydrate 😄)
 
 <br clear="right">
 
@@ -52,22 +53,22 @@
 
 </div>
 
-## 🔒 Hinter den Kulissen
+## 🤖 Meine Projekte
 
-Neben NexCore laufen bei mir **über 20 Projekte** — die meisten produktiv im Einsatz und deshalb privat.
-Ein kleiner Vorgeschmack, ohne zu viel zu verraten:
+Über 20 Projekte, viele davon produktiv im Einsatz — Discord-Bots, Dashboards und Verwaltungstools:
 
-<div align="center">
+| Projekt | Beschreibung | Stack |
+|---|---|---|
+| 🪐 **NexCore** | All-in-One Discord-Bot mit Web-Panel — kostenlos für jeden Server | Node.js · Next.js · MySQL |
+| 🏊 **IronHub** | Ironman-Trainingsplattform: personalisiertes Training, Essensstrategie, automatischer Import u.v.m. | TypeScript |
+| 🏝️ **Tanoa Vice** | Komplette Server-Infrastruktur für Arma-3-RP — Bots, ACP, Website & mehr | Python · JavaScript |
+| 🚛 **GRTL Hub** | ETS2-Speditions-Tracker mit angebundenem Discord-Bot | Python · FastAPI |
+| ☠️ **GrimReaper** | Discord-Bot für die GrimReaper Transportlogistik | Python |
+| 🏥 **Klinikum-Intranet** | Personalverwaltungstool und Discord-Bot in einem | Python · Flask |
+| ⚡ **Vice-Bot & Co.** | Diverse Community-Bots — Tickets, Events, Verwaltung | Python · JavaScript |
+| 🤖 **bot_template** | Mein öffentliches Basis-Template für neue Discord-Bots | Python |
 
-🏊 *Eine Trainingsplattform für Ironman-Athleten — Training, Ernährung, Auto-Import*
-🚛 *Ein Logistik-Tracker mit direkter Discord-Anbindung*
-🏥 *Personalverwaltung und Discord-Bot in einem System*
-🏝️ *Komplette Server-Infrastruktur für eine Roleplay-Community*
-🏢 *Diverse Intranet- und Verwaltungslösungen*
-
-**… und einiges mehr, das noch nicht spruchreif ist.** 👀
-
-</div>
+*Die meisten laufen produktiv auf eigener Infrastruktur und sind daher privat — bei Fragen einfach anschreiben!* 💬
 
 ## 📊 Statistiken
 
