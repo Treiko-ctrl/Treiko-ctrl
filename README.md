@@ -68,7 +68,21 @@
 | ⚡ **Vice-Bot & Co.** | Diverse Community-Bots — Tickets, Events, Verwaltung | Python · JavaScript |
 | 🤖 **bot_template** | Mein öffentliches Basis-Template für neue Discord-Bots | Python |
 
-*Die meisten laufen produktiv auf eigener Infrastruktur und sind daher privat — bei Fragen einfach anschreiben!* 💬
+### ⚡ Verteilungen
+
+> Ein Online-Tool rund um **elektrische Verteilungen** — durchdacht, im echten Einsatz
+> und eines meiner Lieblingsprojekte. Was es alles kann? **Wird nicht verraten.** 😏
+
+### 🧰 Außerdem in der Werkstatt
+
+- 🏥 **KH-Pycord & kh-verwaltung** — Klinikums-Bot samt Verwaltungssystem fürs Rheinstädtische Klinikum
+- 🚒 **FFW & ffw-verwaltungsbot** — Intranet und Verwaltungsbot für die Feuerwehr
+- 🛡️ **Sicherungsgruppe Rheinstadt** — Verwaltungsbot für die Sicherungsgruppe
+- 📊 **Bens-Dashboard** — maßgeschneidertes Dashboard-Projekt
+- 📚 **gl_doku** *(öffentlich)* — meine Skript-Sammlung mit Dokumentation
+- 🧪 **Treikaru, lmn & mehr** — Experimente und Tools, die irgendwann groß werden könnten 👀
+
+*Die meisten Projekte laufen produktiv auf eigener Infrastruktur und sind daher privat — bei Fragen einfach anschreiben!* 💬
 
 ## 📊 Statistiken
 
