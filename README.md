@@ -1,129 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Treiko&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Discord%20Bots%20%C2%B7%20Web%20Dashboards%20%C2%B7%20Intranet&descAlignY=75&descSize=20" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Treiko-ctrl/Treiko-ctrl/main/dark.svg">
+  <img alt="Treiko — Full-Stack Dev & Discord-Bot-Entwickler" src="https://raw.githubusercontent.com/Treiko-ctrl/Treiko-ctrl/main/light.svg" width="100%">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Hey%2C+ich+bin+Treiko+%F0%9F%91%8B;Discord-Bot-Entwickler+%F0%9F%A4%96;Webentwicklung+%26+Dashboards+%F0%9F%96%A5%EF%B8%8F;Intranet-L%C3%B6sungen+%F0%9F%8F%A2;Selfhosting-Enthusiast+%E2%9A%99%EF%B8%8F;Triathlet+%F0%9F%8F%8A%F0%9F%9A%B4%F0%9F%8F%83;Made+with+%E2%98%95+and+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Treiko-ctrl&style=for-the-badge&color=5865F2&label=Profilaufrufe" alt="Profilaufrufe" />
-
-</div>
-
-<br>
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" />
-
-## 🙋‍♂️ Über mich
-
-- 🇩🇪 Entwickler aus Deutschland
-- 🤖 Ich baue **Discord-Bots**, die sich wie Produkte anfühlen — mit Web-Panel statt Befehls-Chaos
-- 🖥️ **Full-Stack**: von der Landing Page über die API bis zum nginx auf dem eigenen Server
-- ⚙️ Alles **self-hosted** auf eigener Infrastruktur
-- 🎯 Aktuell: **NexCore** — mein All-in-One-Bot für jedermann
-- 🏊🚴🏃 Wenn ich nicht code: **Triathlon** — Schwimmen, Radfahren, Laufen (Ziel: Ironman)
-- ☕ Treibstoff: Kaffee (und Kohlenhydrate 😄)
-
-<br clear="right">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%" alt="" />
+[![Dashboard](https://img.shields.io/badge/Dashboard-nexcoredev.de-3fe0f0?style=flat-square&labelColor=071026)](https://nexcoredev.de)
+[![Docs](https://img.shields.io/badge/Docs-docs.nexcoredev.de-3fe0f0?style=flat-square&labelColor=071026)](https://docs.nexcoredev.de)
+[![Discord](https://img.shields.io/badge/Support-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=071026)](https://discord.gg/tX47Axxnvg)
+[![E-Mail](https://img.shields.io/badge/Mail-kontakt@nexcoredev.de-3fe0f0?style=flat-square&logo=maildotru&logoColor=white&labelColor=071026)](mailto:kontakt@nexcoredev.de)
+[![Profilaufrufe](https://komarev.com/ghpvc/?username=Treiko-ctrl&style=flat-square&color=3fe0f0&label=Aufrufe)](https://github.com/Treiko-ctrl)
 
 </div>
 
-## 🪐 NexCore — Ein Bot. Alles drin.
-
-> Moderation, Tickets, Musik, Leveling, Giveaways, Twitch/YouTube-Alerts & mehr —
-> **komplett im Web-Panel konfiguriert**, kostenlos für jeden Server.
+## Live Stats
 
 <div align="center">
 
-[![Dashboard](https://img.shields.io/badge/🖥️_Dashboard-nexcoredev.de-5865F2?style=for-the-badge)](https://nexcoredev.de)
-[![Docs](https://img.shields.io/badge/📚_Docs-docs.nexcoredev.de-67E8F9?style=for-the-badge)](https://docs.nexcoredev.de)
-[![Discord](https://img.shields.io/badge/💬_Support-Discord-57F287?style=for-the-badge)](https://discord.gg/tX47Axxnvg)
+<img height="160" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Treiko-ctrl&theme=tokyonight" />
+<img height="160" alt="Top-Sprachen" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Treiko-ctrl&theme=tokyonight" />
 
-</div>
+<img alt="Streak" src="https://streak-stats.demolab.com?user=Treiko-ctrl&theme=tokyonight&hide_border=true&locale=de" />
 
-## 🛠️ Tech-Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs&theme=dark)](https://skillicons.dev)
-<br>
-[![Skills](https://skillicons.dev/icons?i=mysql,nginx,linux,cloudflare,docker,discord&theme=dark)](https://skillicons.dev)
-
-</div>
-
-## 🤖 Meine Projekte
-
-Über 20 Projekte, viele davon produktiv im Einsatz — Discord-Bots, Dashboards und Verwaltungstools:
-
-| Projekt | Beschreibung | Stack |
-|---|---|---|
-| 🪐 **NexCore** | All-in-One Discord-Bot mit Web-Panel — kostenlos für jeden Server | Node.js · Next.js · MySQL |
-| 🏊 **IronHub** | Ironman-Trainingsplattform: personalisiertes Training, Essensstrategie, automatischer Import u.v.m. | TypeScript |
-| 🏝️ **Tanoa Vice** | Komplette Server-Infrastruktur für Arma-3-RP — Bots, ACP, Website & mehr | Python · JavaScript |
-| 🚛 **GRTL Hub** | ETS2-Speditions-Tracker mit angebundenem Discord-Bot | Python · FastAPI |
-| ☠️ **GrimReaper** | Discord-Bot für die GrimReaper Transportlogistik | Python |
-| 🏥 **Klinikum-Intranet** | Personalverwaltungstool und Discord-Bot in einem | Python · Flask |
-| ⚡ **Vice-Bot & Co.** | Diverse Community-Bots — Tickets, Events, Verwaltung | Python · JavaScript |
-| 🤖 **bot_template** | Mein öffentliches Basis-Template für neue Discord-Bots | Python |
-
-### ⚡ Verteilungen
-
-> Ein Online-Tool rund um **elektrische Verteilungen** — durchdacht, im echten Einsatz
-> und eines meiner Lieblingsprojekte. Was es alles kann? **Wird nicht verraten.** 😏
-
-### 🎮 GTA-RP-Ökosystem
-
-Für diverse GTA-Roleplay-Communities habe ich ein ganzes Ökosystem an Bots und Tools gebaut —
-mit Features wie **automatischer Vertragserstellung inkl. Unterschrift**, **Personalmanagement**,
-Dienstplänen, Aktenverwaltung und vielem mehr:
-
-- 🏥 **KH-Pycord & kh-verwaltung** — Klinikums-Bot samt komplettem Verwaltungssystem
-- 🚒 **FFW & ffw-verwaltungsbot** — Feuerwehr-Intranet und Verwaltungsbot
-- 🛡️ **Sicherungsgruppe Rheinstadt** — Verwaltungsbot mit Personal- und Vertragswesen
-- 📊 **Bens-Dashboard** — maßgeschneidertes Fraktions-Dashboard
-- 🧪 **Treikaru, lmn & mehr** — weitere RP-Tools und Experimente 👀
-
-### 📚 Und sonst so
-
-- **gl_doku** *(öffentlich)* — meine Skript-Sammlung mit Dokumentation
-
-*Die meisten Projekte laufen produktiv auf eigener Infrastruktur und sind daher privat — bei Fragen einfach anschreiben!* 💬
-
-## 📊 Statistiken
-
-<div align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Treiko-ctrl&theme=tokyonight" alt="GitHub Stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Treiko-ctrl&theme=tokyonight" alt="Top-Sprachen" />
-
-<img src="https://streak-stats.demolab.com?user=Treiko-ctrl&theme=tokyonight&hide_border=true&locale=de" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Treiko-ctrl&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution-Graph" width="100%" alt="Activity Graph" />
-
-</div>
-
-## 🐍 Contribution-Snake
-
-<div align="center">
+<img width="100%" alt="Contribution-Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Treiko-ctrl&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution-Graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Treiko-ctrl/Treiko-ctrl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Treiko-ctrl/Treiko-ctrl/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Treiko-ctrl/Treiko-ctrl/output/github-snake.svg" />
+  <img alt="Contribution-Snake" src="https://raw.githubusercontent.com/Treiko-ctrl/Treiko-ctrl/output/github-snake.svg" />
 </picture>
 
 </div>
 
-## 📫 Kontakt
+## Projekte
 
-<div align="center">
+Über 20 Projekte, die meisten laufen produktiv auf eigener Infrastruktur und sind daher privat.
 
-[![Discord](https://img.shields.io/badge/Discord-NexCore_Development-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tX47Axxnvg)
-[![Website](https://img.shields.io/badge/Website-nexcoredev.de-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=black)](https://nexcoredev.de)
-[![E-Mail](https://img.shields.io/badge/E--Mail-kontakt@nexcoredev.de-57F287?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@nexcoredev.de)
+| Projekt | Beschreibung | Stack |
+|---|---|---|
+| **NexCore** | All-in-One Discord-Bot: Moderation, Tickets, Musik, Leveling, Giveaways, Stream-Alerts — komplett im Web-Panel konfiguriert, kostenlos für jeden Server | Node.js · Next.js · MySQL |
+| **IronHub** | Ironman-Trainingsplattform: personalisiertes Training, Essensstrategie, automatischer Import | TypeScript |
+| **Tanoa Vice** | Komplette Server-Infrastruktur für Arma-3-RP — Bots, ACP, Website | Python · JavaScript |
+| **GRTL Hub** | ETS2-Speditions-Tracker mit angebundenem Discord-Bot | Python · FastAPI |
+| **GrimReaper** | Discord-Bot für die GrimReaper Transportlogistik | Python |
+| **Klinikum-Intranet** | Personalverwaltung und Discord-Bot in einem | Python · Flask |
+| **Verteilungen** | Online-Tool rund um elektrische Verteilungen — im echten Einsatz | — |
+| **bot_template** | Öffentliches Basis-Template für neue Discord-Bots | Python |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=140&section=footer&text=Made%20with%20%E2%98%95%20and%20%E2%9D%A4%EF%B8%8F&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" alt="" />
+### GTA-RP-Ökosystem
 
-</div>
+Für diverse GTA-Roleplay-Communities ein ganzes Ökosystem an Bots und Tools — mit automatischer
+Vertragserstellung inklusive Unterschrift, Personalmanagement, Dienstplänen und Aktenverwaltung:
+
+- **KH-Pycord & kh-verwaltung** — Klinikums-Bot samt Verwaltungssystem
+- **FFW & ffw-verwaltungsbot** — Feuerwehr-Intranet und Verwaltungsbot
+- **Sicherungsgruppe Rheinstadt** — Verwaltungsbot mit Personal- und Vertragswesen
+- **Bens-Dashboard** — maßgeschneidertes Fraktions-Dashboard
+- **gl_doku** *(öffentlich)* — Skript-Sammlung mit Dokumentation
+
+---
+
+<sub>Die Karte oben wird aus <code>avatar.png</code> generiert: <code>python generate_card.py</code> schreibt <code>dark.svg</code> und <code>light.svg</code>. Inhalte stehen in <code>ROWS</code>, Farben in <code>THEMES</code>.</sub>
